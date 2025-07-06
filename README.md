@@ -2,8 +2,6 @@
 
    <header>
     <h1>🎓 Projeto Acadêmico: Portfólio Web Integrado</h1>
-    <p>Autor: <strong>Rogério5</strong> — Última atualização: <em>5af4fb1 · 12 minutos atrás</em></p>
-  </header>
 
   <div class="section">
     <h2>📁 Arquivos do Projeto</h2>
